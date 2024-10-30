@@ -1,0 +1,4 @@
+SUCCESS #ship created
+SUCCESS #fired primary
+SUCCESS #fired secondary
+FAIL #store empty
