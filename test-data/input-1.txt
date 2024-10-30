@@ -1,0 +1,4 @@
+GT4500,1,0,1,0 #create
+TORPEDO,SINGLE #fire
+TORPEDO,SINGLE #fire
+TORPEDO,SINGLE #store empty
